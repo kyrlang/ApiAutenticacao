@@ -1,0 +1,59 @@
+F:\Projetos\MicroServicos\ApiAutenticacao\obj\Debug\ApiAutenticacao.csprojResolveAssemblyReference.cache
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\roslyn\csc.exe
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\roslyn\System.Collections.Immutable.dll
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\roslyn\vbc.exe
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\roslyn\VBCSCompiler.exe
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\roslyn\VBCSCompiler.exe.config
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\ApiAutenticacao.dll.config
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\ApiAutenticacao.dll
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\ApiAutenticacao.pdb
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\Newtonsoft.Json.dll
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\System.Net.Http.Formatting.dll
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\System.Web.Http.dll
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\System.Web.Http.WebHost.dll
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\Newtonsoft.Json.xml
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\System.Net.Http.Formatting.xml
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\System.Web.Http.xml
+F:\Projetos\MicroServicos\ApiAutenticacao\bin\System.Web.Http.WebHost.xml
+F:\Projetos\MicroServicos\ApiAutenticacao\obj\Debug\ApiAutenticacao.dll
+F:\Projetos\MicroServicos\ApiAutenticacao\obj\Debug\ApiAutenticacao.pdb
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\roslyn\csc.exe
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\roslyn\System.Collections.Immutable.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\roslyn\System.Reflection.Metadata.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\roslyn\vbc.exe
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\roslyn\VBCSCompiler.exe
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\roslyn\VBCSCompiler.exe.config
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\ApiAutenticacao.dll.config
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\ApiAutenticacao.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\ApiAutenticacao.pdb
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\Microsoft.Web.Infrastructure.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\Newtonsoft.Json.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\Swashbuckle.Core.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\System.Net.Http.Formatting.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\System.Web.Http.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\System.Web.Http.WebHost.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\WebActivatorEx.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\Newtonsoft.Json.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\System.Net.Http.Formatting.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\System.Web.Http.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\bin\System.Web.Http.WebHost.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\obj\Debug\ApiAutenticacao.csprojResolveAssemblyReference.cache
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\obj\Debug\ApiAutenticacao.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAutenticacao\obj\Debug\ApiAutenticacao.pdb
